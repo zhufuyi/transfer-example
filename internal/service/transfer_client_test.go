@@ -9,9 +9,9 @@ import (
 	"testing"
 	"time"
 
-	transferV1 "transfer/api/transfer/v1"
-	"transfer/configs"
-	"transfer/internal/config"
+	transferV1 "github.com/zhufuyi/transfer-example/api/transfer/v1"
+	"github.com/zhufuyi/transfer-example/configs"
+	"github.com/zhufuyi/transfer-example/internal/config"
 
 	"github.com/zhufuyi/sponge/pkg/grpc/benchmark"
 )

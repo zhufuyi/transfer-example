@@ -6,8 +6,8 @@ import (
 	"testing"
 	"time"
 
-	"transfer/configs"
-	"transfer/internal/config"
+	"github.com/zhufuyi/transfer-example/configs"
+	"github.com/zhufuyi/transfer-example/internal/config"
 
 	"github.com/zhufuyi/sponge/pkg/consulcli"
 	"github.com/zhufuyi/sponge/pkg/etcdcli"

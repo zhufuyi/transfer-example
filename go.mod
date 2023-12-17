@@ -1,4 +1,4 @@
-module transfer
+module github.com/zhufuyi/transfer-example
 
 go 1.19
 

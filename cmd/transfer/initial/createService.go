@@ -5,8 +5,8 @@ import (
 	"strconv"
 	"time"
 
-	"transfer/internal/config"
-	"transfer/internal/server"
+	"github.com/zhufuyi/transfer-example/internal/config"
+	"github.com/zhufuyi/transfer-example/internal/server"
 
 	"github.com/zhufuyi/sponge/pkg/app"
 	"github.com/zhufuyi/sponge/pkg/logger"

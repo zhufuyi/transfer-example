@@ -7,10 +7,10 @@ import (
 	"flag"
 	"strconv"
 
-	"transfer/configs"
-	"transfer/internal/config"
+	"github.com/zhufuyi/transfer-example/configs"
+	"github.com/zhufuyi/transfer-example/internal/config"
 
-	//"transfer/internal/model"
+	//"github.com/zhufuyi/transfer-example/internal/model"
 
 	"github.com/zhufuyi/sponge/pkg/logger"
 	"github.com/zhufuyi/sponge/pkg/stat"

@@ -5,9 +5,9 @@ package service
 import (
 	"context"
 
-	transferV1 "transfer/api/transfer/v1"
-	"transfer/internal/ecode"
-	"transfer/internal/rpcclient"
+	transferV1 "github.com/zhufuyi/transfer-example/api/transfer/v1"
+	"github.com/zhufuyi/transfer-example/internal/ecode"
+	"github.com/zhufuyi/transfer-example/internal/rpcclient"
 
 	"github.com/dtm-labs/client/dtmgrpc"
 	"github.com/zhufuyi/sponge/pkg/grpc/interceptor"

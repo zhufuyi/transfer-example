@@ -4,8 +4,8 @@ import (
 	"context"
 	"time"
 
-	"transfer/internal/config"
-	//"transfer/internal/model"
+	"github.com/zhufuyi/transfer-example/internal/config"
+	//"github.com/zhufuyi/transfer-example/internal/model"
 
 	"github.com/zhufuyi/sponge/pkg/app"
 	"github.com/zhufuyi/sponge/pkg/tracer"

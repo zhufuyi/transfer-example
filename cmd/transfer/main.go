@@ -2,7 +2,7 @@
 package main
 
 import (
-	"transfer/cmd/transfer/initial"
+	"github.com/zhufuyi/transfer-example/cmd/transfer/initial"
 
 	"github.com/zhufuyi/sponge/pkg/app"
 )

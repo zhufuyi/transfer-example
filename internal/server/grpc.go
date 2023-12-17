@@ -8,9 +8,9 @@ import (
 	"net/http"
 	"time"
 
-	"transfer/internal/config"
-	"transfer/internal/ecode"
-	"transfer/internal/service"
+	"github.com/zhufuyi/transfer-example/internal/config"
+	"github.com/zhufuyi/transfer-example/internal/ecode"
+	"github.com/zhufuyi/transfer-example/internal/service"
 
 	"github.com/zhufuyi/sponge/pkg/app"
 	"github.com/zhufuyi/sponge/pkg/errcode"

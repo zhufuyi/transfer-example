@@ -3,7 +3,7 @@ package config
 import (
 	"testing"
 
-	"transfer/configs"
+	"github.com/zhufuyi/transfer-example/configs"
 
 	"github.com/zhufuyi/sponge/pkg/gofile"
 

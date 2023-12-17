@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-	"transfer/internal/config"
+	"github.com/zhufuyi/transfer-example/internal/config"
 
 	"github.com/zhufuyi/sponge/pkg/consulcli"
 	"github.com/zhufuyi/sponge/pkg/etcdcli"

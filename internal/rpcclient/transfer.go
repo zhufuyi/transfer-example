@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"sync"
 
-	"transfer/internal/config"
+	"github.com/zhufuyi/transfer-example/internal/config"
 )
 
 var (
