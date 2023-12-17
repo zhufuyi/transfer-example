@@ -4,7 +4,7 @@ package api.transfer.v1;
 
 import "validate/validate.proto";
 
-option go_package = "transfer-example/api/transfer/v1;v1";
+option go_package = "transfer/api/transfer/v1;v1";
 
 service transfer {
   // 转账
